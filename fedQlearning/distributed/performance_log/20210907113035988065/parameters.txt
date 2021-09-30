@@ -1,0 +1,11 @@
+num_stations: 2
+num_sessions: 10
+action_space: [1, 3, 5, 10]
+fixed_stations: [324, 3354, 509]
+use_expected_balances_only: True
+forecasting: False
+num_clusters: 5
+active_cluster: 4
+remove_only: False
+forecast_hours: 1
+stock_mode: actual
